@@ -91,7 +91,7 @@
 .topbar .dropdown-toggle::after {
     border: none;
     content: "\f107";
-    font-family: "Font Awesome 5 Free";
+    font-family: "Candara";
     font-weight: 600;
     vertical-align: middle;
     margin-left: 8px;
@@ -119,7 +119,7 @@
 
 /*** Navbar ***/
 .navbar-light .navbar-nav .nav-link {
-    font-family: 'Roboto', sans-serif;
+    font-family: "Candara";
     position: relative;
     margin-right: 25px;
     padding: 35px 0;
